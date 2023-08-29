@@ -1,4 +1,4 @@
-# -E-Commerce-SpringBoot-and-Angular
+# E-Commerce-SpringBoot-and-Angular
 Creating an E-Commerce Website with Spring Boot and Angular
 
 Frontend-Angular,
